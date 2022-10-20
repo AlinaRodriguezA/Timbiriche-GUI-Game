@@ -22,7 +22,7 @@ It was developed on Java, and comes with a Graphic User Interface and multiple g
 - Java 100%
 
 ### Developed by:
-- Kevin Alvarado.
 - Alina Rodriguez.
+- Kevin Alvarado.
 
 _Developed in 2020_
